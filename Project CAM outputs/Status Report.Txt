@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCM2706 CODEC.PrjPCB]
+   Generated File[Panel-RoundHoles.TXT]
+   Generated File[Panel-SlotHoles.TXT]
+   Generated File[Panel.LDP]
+   Generated File[Panel.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At ¤U¤È 10:16:59 On 2014/5/6
