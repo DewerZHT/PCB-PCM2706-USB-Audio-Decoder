@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=AGND Pin=Audio Out-0
+Removed Pin From Net: NetName=AGND Pin=Audio Out-0
+Removed Pin From Net: NetName=AGND Pin=Audio Out-0
+Removed Pin From Net: NetName=AGND Pin=C8-1
+Removed Pin From Net: NetName=VCCP Pin=C8-2
+Removed Pin From Net: NetName=DT Pin=R5-1
+Removed Pin From Net: NetName=AGND Pin=R5-2
+Removed Pin From Net: NetName=AGND Pin=USB-0
+Removed Pin From Net: NetName=AGND Pin=USB-0
+Change Component Comment : Designator=C10 Old Comment=Cap_0603 New Comment=0.022uF
+Change Component Comment : Designator=C11 Old Comment=Cap_0603 New Comment=0.022uF
+Change Component Comment : Designator=C5 Old Comment=Cap_0603 New Comment=1uF
+Change Component Comment : Designator=C6 Old Comment=Cap_0603 New Comment=1uF
+Change Component Comment : Designator=C8 Old Comment=Cap_0603 New Comment=1uF
+Change Component Comment : Designator=C9 Old Comment=Cap_0603 New Comment=1uF
+Change Component Comment : Designator=C7 Old Comment=Cap_0603 New Comment=10uF
+Change Component Comment : Designator=C12 Old Comment=Capacitor New Comment=270uF
+Change Component Comment : Designator=C13 Old Comment=Capacitor New Comment=270uF
+Change Component Comment : Designator=R5 Old Comment=Res_0603 New Comment=1.5K
+Change Component Comment : Designator=R4 Old Comment=Res_0603 New Comment=1k
+Change Component Comment : Designator=R8 Old Comment=Res_0603 New Comment=3.3K
+Change Component Comment : Designator=R9 Old Comment=Res_0603 New Comment=3.3K
+Change Component Comment : Designator=R10 Old Comment=Res_0603 New Comment=3.3K
+Change Component Comment : Designator=R11 Old Comment=Res_0603 New Comment=3.3K
+Change Component Comment : Designator=R6 Old Comment=Res_0603 New Comment=16
+Change Component Comment : Designator=R7 Old Comment=Res_0603 New Comment=16
+Change Component Designator: OldDesignator=Audio Out NewDesignator=J_Audio_Out
+Change Component Designator: OldDesignator=D_Red NewDesignator=LED_Red
+Change Component Description : Designator=C5 Old Description=Capacitor New Description=Cap_0603
+Change Component Description : Designator=C6 Old Description=Capacitor New Description=Cap_0603
+Change Component Description : Designator=C7 Old Description=Capacitor New Description=Cap_0603
+Change Component Description : Designator=C8 Old Description=Capacitor New Description=Cap_0603
+Change Component Description : Designator=C9 Old Description=Capacitor New Description=Cap_0603
+Change Component Description : Designator=C10 Old Description=Capacitor New Description=Cap_0603
+Change Component Description : Designator=C11 Old Description=Capacitor New Description=Cap_0603
+Change Component Description : Designator=R4 Old Description=Resistor New Description=Res_0603
+Change Component Description : Designator=R6 Old Description=Resistor New Description=Res_0603
+Change Component Description : Designator=R7 Old Description=Resistor New Description=Res_0603
+Change Component Description : Designator=R8 Old Description=Resistor New Description=Res_0603
+Change Component Description : Designator=R9 Old Description=Resistor New Description=Res_0603
+Change Component Description : Designator=R10 Old Description=Resistor New Description=Res_0603
+Change Component Description : Designator=R11 Old Description=Resistor New Description=Res_0603
+Added Component: Designator=LED_Green(LED_0603_RED)
+Added Component: Designator=R13(RES_0603)
+Added Component: Designator=screw1(M3_Hole)
+Added Component: Designator=screw2(M3_Hole)
+Added Component: Designator=screw3(M3_Hole)
+Added Pin To Net: NetName=VCCP Pin=C8-1
+Added Pin To Net: NetName=AGND Pin=C8-2
+Added Pin To Net: NetName=VDD Pin=LED_Green-1
+Added Pin To Net: NetName=VDD Pin=R5-1
+Added Pin To Net: NetName=DT Pin=R5-2
+Added Pin To Net: NetName=AGND Pin=R13-2
+Change Net Name : Old Net Name=NetD_Red_2 New Net Name=NetLED_Red_2
+Added Pin To Net: NetName=NetLED_Green_2 Pin=LED_Green-2
+Added Pin To Net: NetName=NetLED_Green_2 Pin=R13-1
+Added Net: Name=NetLED_Green_2
+Added Member To Class: ClassName=PCM2706_CODEC_MAIN Member=Component LED_Green LED_0603_RED
+Added Member To Class: ClassName=PCM2706_CODEC_MAIN Member=Component R13 1k
+Added Member To Class: ClassName=PCM2706_CODEC_MAIN Member=Component screw1 M3_Hole
+Added Member To Class: ClassName=PCM2706_CODEC_MAIN Member=Component screw2 M3_Hole
+Added Member To Class: ClassName=PCM2706_CODEC_MAIN Member=Component screw3 M3_Hole
+Added Room: Name=PCM2706_CODEC_MAIN
