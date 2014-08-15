@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Panel.PcbDoc   2014/8/11  ¤U¤È 09:55:39
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Panel-RoundHoles.TXT
+ASCII SlotHoles File : Panel-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        16mil (0.4064mm)         Round          96               13.11 Inch (332.88 mm)
+T2        29.53mil (0.75006mm)     Round          16               8.66 Inch (220.06 mm)
+T3        43.31mil (1.10007mm)     Round          8                6.02 Inch (153.00 mm)
+T4        45mil (1.143mm)          Slot           8                293.22 Inch (7447.85 mm)
+T5        50mil (1.27mm)           Round          20               9.18 Inch (233.25 mm)
+T6        62.99mil (1.59995mm)     Round          12               8.29 Inch (210.67 mm)
+---------------------------------------------------------------------------
+Totals                                            160              338.49 Inch (8597.72 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
