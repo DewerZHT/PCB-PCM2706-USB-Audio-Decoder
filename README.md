@@ -16,7 +16,9 @@ PCB-PCM2706-USB-Audio-Decoder
 > **Enjoy it!**
 
 ## 內容 Feature ##
-> Use IT's audio chip PCM2706
+> 使用TI的音訊晶片PCM27076
+
+> Use TI's audio chip PCM2706
 
 ## 尚未測試的項目 Things need to be tested ##
 > 1. 在linux環境下運行
@@ -26,6 +28,10 @@ PCB-PCM2706-USB-Audio-Decoder
 ## 版本資訊 Version Information
 > Reversion 6 error
 
->   目前有Bug在DT的電阻本應上拉至VDD, 接錯至GND.
+>   有Bug在DT的電阻本應上拉至VDD, 接錯至GND.
 
 >   詳見http://dewerzht-blog.logdown.com/posts/206920-an-electronic-circuite-error
+
+> Reversion 6
+
+>   整體大小為35mm x 35mm
